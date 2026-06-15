@@ -1,1 +1,4 @@
-# Supplementary-Information
+# Supplementary-Information 
+SI1_main_scripts contain the main analysis scripts used in this study, including the semantic evidence pipeline for web source discovery, corpus construction, LLM evidence extraction, year coding, and GPDRI scoring, as well as the Google Earth Engine and local processing scripts. This supplement is provided as a code-only archive; input inventories, intermediate tables, and final analytical CSV files are not bundled with the scripts and 
+
+SI2_corpus_archive.zip contains the archived text corpus used as input to the semantic extraction workflow. The archive includes 1,834 cleaned text files derived from port authority webpages, terminal operator materials, government announcements, project documents, sustainability reports and other traceable public sources. This corpus is provided to improve the transparency and reproducibility of the GPDRI evidence extraction process. Full reruns of the semantic extraction require access to the relevant API environment, and full reruns of the satellite workflow require a Google Earth Engine account and uploaded port point assets.
